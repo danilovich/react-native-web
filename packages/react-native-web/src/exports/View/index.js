@@ -144,7 +144,7 @@ const classes = css.create({
     minWidth: 0,
     padding: 0,
     position: 'relative',
-    zIndex: 0
+    // zIndex: 0
   }
 });
 
